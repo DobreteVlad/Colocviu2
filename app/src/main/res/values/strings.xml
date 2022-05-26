@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="demo2Edit1" />
+    <string name="client">CLIENT</string>
+    <string name="demo2Edit2" />
+    <string name="demo2Edit3" />
+    <string name="demo2Edit5" />
+    <string name="demo2Edit4" />
+    <string-array name="information_types">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>condition</item>
+        <item>pressure</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
+</resources>
